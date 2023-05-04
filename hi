@@ -1,0 +1,8 @@
+so now learned how to add file to your computer from github 
+first make a folder then go to location , then slect your locution and write cmd
+then write git clone and press enter then it will make a file there which was on git hub
+git pull can extract file which is newly build 
+untracked file to tracked file - cmd/git status
+git add .
+then if you want to push that file on internet then you gotta do - cmd/git commit -m "commit"
+git push
